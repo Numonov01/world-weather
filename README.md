@@ -3,8 +3,8 @@
 # username password
 
 ```sh
-superadmin
-superadmin
+username: superadmin
+password: superadmin
 ```
 
 ## Images
